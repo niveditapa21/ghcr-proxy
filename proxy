@@ -18,7 +18,7 @@ app = Flask(__name__)
 ORG_NAME = " "  # Change your GitHub org here
 
 EMAIL_CONFIG = {
-    "smtp_server": "smtp.gmail.com",
+    "smtp_server": "",
     "smtp_port": 587,
     "sender_email": " ",
     "sender_password": "hoqtbbmllrmagaan",
