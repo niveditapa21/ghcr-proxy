@@ -18,10 +18,10 @@ app = Flask(__name__)
 EMAIL_CONFIG = {
     "smtp_server": "smtp.gmail.com",  # For Gmail
     "smtp_port": 587,
-    "sender_email": "your-email@gmail.com",  # Your email
-    "sender_password": "your-app-password",   # Gmail app password
+    "sender_email": "nivedita.pa21@gmail.com",  # Your email
+    "sender_password": "hoqtbbmllrmagaan",   # Gmail app password
     "recipient_emails": [
-        "recipient1@example.com",
+        "pathaknivedita21@gmail.com",
         "recipient2@example.com"  # Add multiple recipients
     ]
 }
