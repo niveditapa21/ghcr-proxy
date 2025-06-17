@@ -15,15 +15,15 @@ import os
 app = Flask(__name__)
 
 # === Config ===
-ORG_NAME = "be-with-devops"  # Change your GitHub org here
+ORG_NAME = " "  # Change your GitHub org here
 
 EMAIL_CONFIG = {
     "smtp_server": "smtp.gmail.com",
     "smtp_port": 587,
-    "sender_email": "nivedita.pa21@gmail.com",
+    "sender_email": " ",
     "sender_password": "hoqtbbmllrmagaan",
     "recipient_emails": [
-        "pathaknivedita21@gmail.com",
+        " ",
         "recipient2@example.com"
     ]
 }
